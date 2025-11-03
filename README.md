@@ -15,6 +15,7 @@ User Requirements:
     - Access to TensorFlow and NumPy
 
 Features:
+
     - Estimates daily CO₂ emissions for commute, diet, and electricity usage.
     - Generates eco-friendly suggestions ranked by estimated CO₂ savings and personalized acceptance probability.
     - Reads user mood with a small sentiment analysis model.
@@ -58,6 +59,7 @@ Efficiency:
         Space Complexity: O(n)
 
 How to Run:
+
     - use the command: python agent.py
     - enter your mood, commute, diet, meals, and estimated electricity usage from the day when prompted
     - receive personalized eco-friendly suggestions with estimated CO₂ savings
